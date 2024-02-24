@@ -1,0 +1,72 @@
+{% assign sorted_pages_site = site.pages | sort:"nav_order" %}
+
+{%- assign root_pages = sorted_pages_site 
+  | where_exp: "item", "item.parent == nil"
+  | where_exp: "item", "item.title != nil"
+  | where_exp: "item", "item.nav_exclude != true" -%}
+
+
+{%- if page.parent -%}
+  {%- assign root_page = page.parent -%}
+{%- else -%}
+  {%- assign root_page = page.title -%}
+{%- endif -%}
+
+{%- for item in root_pages -%}
+  {%- if item.title == root_page -%}
+    {%- assign num_of_pages = forloop.length -%}
+    {%- assign next_i = forloop.index0 | plus: 1 -%}
+    {%- assign prev_i = forloop.index0 | minus: 1 -%}
+    {%- assign curent_root = root_pages[forloop.index0] -%}
+    {%- assign next_page = root_pages[next_i] -%}
+    {%- if prev_i >= 0 -%}
+      {%- assign prev_page = root_pages[prev_i] -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- if page.parent -%}
+  {%- assign children_pages = sorted_pages 
+    | where: "parent", page.parent
+    | where_exp: "item", "item.title != nil"
+    | where_exp: "item", "item.nav_exclude != true" -%}
+
+  {%- assign prev_page = curent_root -%}
+
+  {%- for item in children_pages -%}
+    {%- if item.url == page.url -%}
+      {%- assign num_of_pages = forloop.length -%}
+      {%- assign next_i = forloop.index0 | plus: 1 -%}
+      {%- assign prev_i = forloop.index0 | minus: 1 -%}
+      {%- if num_of_pages > next_i -%}
+        {%- assign next_page = children_pages[next_i] -%}
+      {%- endif -%}
+      {%- if prev_i >= 0 -%}
+        {%- assign prev_page = children_pages[prev_i] -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+<div class="footer-nav">
+  {%- if prev_page -%}
+  <p class="prev-page">
+    <a href="{{ site.baseurl }}{{ prev_page.url }}">
+      {{ prev_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+  
+  {%- if next_page -%}
+  <p class="next-page">
+    <a href="{{ site.baseurl }}{{ next_page.url }}">
+      {{ next_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+</div>
+
+
+{%- if site.footer_content -%}
+  <p class="text-footer text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
+{%- endif -%}
