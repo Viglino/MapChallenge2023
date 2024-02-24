@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /day1-points
 title: Day1 - Points
 nav_order: 1
 parent: 30DayMapChallenge 2023
