@@ -6,10 +6,10 @@
     {%- assign next_i = forloop.index0 | plus: 1 -%}
     {%- assign prev_i = forloop.index0 | minus: 1 -%}
     {%- if num_of_pages > next_i -%}
-      {%- assign next_page = children_pages[next_i] -%}
+      {%- assign next_page = sorted_pages_site[next_i] -%}
     {%- endif -%}
     {%- if prev_i >= 0 -%}
-      {%- assign prev_page = children_pages[prev_i] -%}
+      {%- assign prev_page = sorted_pages_site[prev_i] -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
