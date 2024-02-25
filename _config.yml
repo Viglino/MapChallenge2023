@@ -18,7 +18,7 @@ remote_theme: just-the-docs/just-the-docs
 back_to_top: false
 back_to_top_text: "Haut de page"
 
-footer_content: "Copyright &copy; 2023 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a>"
+footer_content: "Copyright &copy; 2023 - <a href=\"https://github.com/Viglino\">Jean-Marc Viglino</a>" - CC-by
 
 toc:
   enabled: true
