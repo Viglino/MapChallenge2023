@@ -15,7 +15,7 @@ J'en ai profité pour relire toute la collection et faire une page gist qui rece
 
 {: .center }
 ![](https://user-images.githubusercontent.com/7868217/278879168-69aad1e4-633f-4cb0-a116-38f54834a1ef.jpg)
-*&copy; Dargaud - Morris Goscinny
+*&copy; Dargaud - Morris Goscinny*
 
 {: .center }
 ![](https://pbs.twimg.com/media/F-jkjJnWMAADPPi?format=jpg&name=large){:width="550px"}{: .fullscreen }    
