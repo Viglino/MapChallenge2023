@@ -14,7 +14,7 @@ J'en ai donc profité pour faire une carte narrative expliquant le projet en gé
 
 {: .center }
 ![](./day16-argocean.jpg){:width="550px"}{: .fullscreen }    
-[Voir la carte en ligne](https://macarte.ign.fr/carte/APLiSg/ArgOcean){:target="macarte"}
+[Voir la carte narrative](https://macarte.ign.fr/carte/APLiSg/ArgOcean){:target="macarte"}
 
 {: .center }
 [![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://twitter.com/jmviglino/status/1725046507315810648)
