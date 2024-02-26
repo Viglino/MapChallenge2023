@@ -11,6 +11,7 @@ date: 2023-11-05
 
 Pour cette carte, j'ai georéférencé une carte faite par [Blob of the Wild 🐾](https://twitter.com/WinnieCHMT/status/1643901560164962305) qui a tenté une petite expérience avec un blob, pour voir comment il optimise le réseau routier entre plusieurs villes bretonnes. Et il faut dire qu'il se débrouille pas trop mal l'animal !
 
+{: .note }
 Si vous trouvez plus analogique que ça (à moins que ce ne soit une carte organique ?).
 
 {: .center }

@@ -9,7 +9,7 @@ date: 2023-11-08
 ---
 # Day 8 - Africa
 
-Vous saviez que toutes les girafes n'ont pas la toute même forme de tache ? Cela dépend de la région, comme décrit dans cet [article sur PubMed](https://pubmed.ncbi.nlm.nih.gov/18154651/)... et sur cette carte pour le jour 8.
+Le saviez vous ? les girafes n'ont pas la toute même forme de tache ? Cela dépend de la région, comme décrit dans cet [article sur PubMed](https://pubmed.ncbi.nlm.nih.gov/18154651/)... et sur cette carte pour le jour 8.
 
 {: .center }
 ![](https://pbs.twimg.com/media/F-ZKwltWUAAPQXo?format=jpg&name=medium){:width="550px"}{: .fullscreen }    

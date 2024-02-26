@@ -21,6 +21,6 @@ Caisse nationale de l'assurance maladie](https://www.data.gouv.fr/fr/datasets/an
 {: .center }
 [![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://twitter.com/jmviglino/status/1720698643161002430)
 
-{:note}
-Cette carte a été choisie par [Makina Corpus](https://makina-corpus.com/sig-cartographie/retour-30daymapchallenge-2023) pour le jour 4 du challenge...    
-Du coup je me pose des questions : C'est la meilleure des bad map ou la pire ?
+{: .note }
+Cette carte a été choisie par [Makina Corpus](https://makina-corpus.com/sig-cartographie/retour-30daymapchallenge-2023) pour le jour 4 du challenge : "Bad map"...    
+Du coup je me pose des questions : c'est la meilleure des bad map ou la plus nulle ?

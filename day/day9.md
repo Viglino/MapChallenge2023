@@ -9,7 +9,7 @@ date: 2023-11-09
 ---
 # Day 9 - Hexagons
 
-Pour illustrer les hexagones sur une carte, j'ai choisi une carte avec des collecteurs hexagonaux afin d'agréger les donnée [Opendata de la ville de Paris](https://opendata.paris.fr/explore/dataset/les-arbres).
+Pour illustrer les hexagones sur une carte, j'ai choisi une carte avec des collecteurs hexagonaux afin d'agréger les donnée sur les arbres [de la plateforme opendata de la ville de Paris](https://opendata.paris.fr/explore/dataset/les-arbres).
 
 {: .center }
 ![](https://pbs.twimg.com/media/F-eo4LvWgAAOfoy?format=jpg&name=medium){:width="550px"}{: .fullscreen }    
