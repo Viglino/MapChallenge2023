@@ -15,7 +15,7 @@ C'est l'idée de départ de cette carte des ophtalmologistes faite avec les [don
 Caisse nationale de l'assurance maladie](https://www.data.gouv.fr/fr/datasets/annuaire-sante-de-la-cnam/).
 
 {: .center }
-![](https://pbs.twimg.com/media/F-BpsJ_WEAAJy3_?format=png&name=medium){:width="550px"}{: .fullscreen }    
+![](./day4-lunettes.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/vtN7NZ/Ophtalmo){:target="macarte"}
 
 {: .center }

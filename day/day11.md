@@ -12,7 +12,7 @@ date: 2023-11-11
 Pour la thématique rétro, j'utilise un rendu vintage sur les [tuiles vectorielles proposées par l'IGN](https://geoservices.ign.fr/actualites/2022-03-30-tuiles-vectorielles) et une carte pour pouvoir réaliser et imprimer sa carte sa propre emprise, avec un look rétro inspiré des cartes anciennes.
 
 {: .center }
-![](https://pbs.twimg.com/media/F-or3QrWgAAsoe1?format=jpg&name=4096x4096){:width="550px"}{: .fullscreen }    
+![](./day11-agen.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte narrative](https://macarte.ign.fr/carte/AZTUXa/Retro-carto){:target="macarte"}
 
 {: .center }

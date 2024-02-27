@@ -12,7 +12,7 @@ date: 2023-11-03
 Ici, j'ai repris la carte faite pas [Lucas Destrem](https://twitter.com/LucasDestrem) pour [l'atlas de l'anthropocène](https://www.ign.fr/atlas-ign-des-cartes-de-lanthropocene-2023-occupation-sols) de l'IGN, avec son aimable autorisation. Le rendu de cette carte m'a tout de suite fasciné et j'espère que la version interactive tient ses promesses.
 
 {: .center }
-![](https://pbs.twimg.com/media/F9_gki4XYAA8IBI?format=jpg&name=4096x4096){:width="550px"}{: .fullscreen }    
+![](./day3-surface.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/kCcj1S/Archipel){:target="macarte"}
 
 {: .center }

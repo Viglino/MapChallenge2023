@@ -15,7 +15,7 @@ Pour cette carte, j'ai georéférencé une carte faite par [Blob of the Wild �
 Si vous trouvez plus analogique que ça (à moins que ce ne soit une carte organique ?).
 
 {: .center }
-![](https://pbs.twimg.com/media/F-JwwhSWkAAzHsl?format=png&name=900x900){:width="550px"}{: .fullscreen }    
+![](./day5-blob.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/ObigRK/Blob-of-the-Wild){:target="macarte"}
 
 {: .center }

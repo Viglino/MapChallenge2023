@@ -16,7 +16,7 @@ Au final, je suis assez content du résultat, avec le fond [GEBCO](https://www.g
 J'avoue que j'ai un petit faible pour les illustration de [François-Louis Schmied](https://commons.wikimedia.org/w/index.php?search=Schmied+illustration+Odyss%C3%A9e&title=Special:MediaSearch&go=Go&type=image).
 
 {: .center }
-![](https://pbs.twimg.com/media/F-UIdqCWAAA22fg?format=jpg&name=4096x4096){:width="550px"}{: .fullscreen }    
+![](./day7-navigation.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte narrative](https://macarte.ign.fr/carte/RIRck3/Odyseus){:target="macarte"}
 
 {: .center }

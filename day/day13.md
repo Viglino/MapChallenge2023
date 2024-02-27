@@ -12,7 +12,7 @@ date: 2023-11-13
 Au départ, j'étais parti pour faire une carte choroplèthe à partir des feux de forêts de la [BDIFF](https://bdiff.agriculture.gouv.fr/) et au final, j'ai fait une affiche de film catastrophe !
 
 {: .center }
-![](https://pbs.twimg.com/media/F-y-IfIWIAAOxRy?format=jpg&name=medium){:width="550px"}{: .fullscreen }    
+![](./day13-incendies.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/Hcsp3w/Incendies22){:target="macarte"}
 
 {: .center }

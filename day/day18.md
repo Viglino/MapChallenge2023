@@ -12,7 +12,7 @@ date: 2023-11-18
 Pour donner une atmosphère à la carte du jour 18, j'ai choisi de localiser les phénomènes atmosphériques non identifiés par le [Geipan](https://www.cnes-geipan.fr/fr), façon carte de jeu vidéo.
 
 {: .center }
-![](https://pbs.twimg.com/media/F-k7v1lXUAAV_sk?format=jpg&name=medium){:width="550px"}{: .fullscreen }    
+![](./day18-geipan.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/VuwuVU/Geipan){:target="macarte"}
 
 {: .center }

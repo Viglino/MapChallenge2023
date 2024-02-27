@@ -14,7 +14,7 @@ Les données viennent de Wikipédia (récupérés via leur API) qui permet facil
 Le poster a été réalisé avec Inkscape pour habiller la carte et lui ajouter un titre et une illustration.
 
 {: .center }
-![](https://pbs.twimg.com/media/F909s5YXwAAJHMl?format=jpg&name=4096x4096){:width="550px"}{: .fullscreen }    
+![](./day1-phare.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/FkVAQY/Phares-de-France){:target="macarte"}
 
 {: .center }
