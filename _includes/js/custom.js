@@ -1,3 +1,4 @@
+/* on content loaded */
 document.addEventListener("DOMContentLoaded", function() {
   // Fullscreen
   var fullscreen = document.createElement('DIV');
@@ -18,3 +19,22 @@ document.addEventListener("DOMContentLoaded", function() {
   var fscreen = document.querySelectorAll('img.fullscreen');
   for (var i=0; i<fscreen.length; i++) setImage(fscreen[i]);
 });
+
+/* Next / previous page */
+document.addEventListener('keydown', function(e) {
+  switch (e.key) {
+    case 'ArrowRight':
+    case 'ArrowDown': {
+      var link = document.body.querySelector('.prev-page a')
+      if (link) link.click();
+      break;
+    }
+    case 'ArrowLeft':
+    case 'ArrowUp': {
+      var link = document.body.querySelector('.next-page a')
+      if (link) link.click();
+      break;
+    }
+    default: break;
+  }
+})
