@@ -25,14 +25,14 @@ document.addEventListener('keydown', function(e) {
   switch (e.key) {
     case 'ArrowRight':
     case 'ArrowDown': {
-      var link = document.body.querySelector('.prev-page a')
-      if (link) link.click();
+      var link = document.body.querySelector('.next-page a')
+      if (link && link.innerHTML.trim()) link.click();
       break;
     }
     case 'ArrowLeft':
     case 'ArrowUp': {
-      var link = document.body.querySelector('.next-page a')
-      if (link) link.click();
+      var link = document.body.querySelector('.prev-page a')
+      if (link && link.innerHTML.trim()) link.click();
       break;
     }
     default: break;
