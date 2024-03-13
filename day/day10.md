@@ -15,11 +15,11 @@ Et comme on trouve tout sur Wikipédia, il y a une page consacrées aux villes [
 J'en ai profité pour relire toute la collection et faire une page gist qui recense les [lieux et cartes dans le albums de Lucky Luke](https://gist.github.com/Viglino/5f15e40a9aa7d08b51c868efe66d8209).
 
 {: .center }
-![](./day10-luke.jpg)
+![](./day10-jumper.jpg){:width="550px"}{: .fullscreen }    
 *&copy; Dargaud - Morris Goscinny*
 
 {: .center }
-![](https://pbs.twimg.com/media/F-jkjJnWMAADPPi?format=jpg&name=large){:width="550px"}{: .fullscreen }    
+![](./day10-luke.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte narrative](https://macarte.ign.fr/carte/kl407q/Lucky-Luke){:target="macarte"}
 
 {: .center }
