@@ -20,3 +20,6 @@ Pour le jour 19, j'ai repris l'idée du jour 11 (rétro) avec des [tuiles vector
 [![](https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg){:width="40px"}](https://twitter.com/jmviglino/status/1726226115457647008)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tC8Zar5dyiY?si=EiOL82yURl_0_MFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{: .note }
+Cette carte a été choisie par [Makina Corpus](https://makina-corpus.com/sig-cartographie/retour-30daymapchallenge-2023) pour le jour 19 du challenge : 5mn map.
