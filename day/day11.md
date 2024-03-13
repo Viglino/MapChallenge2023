@@ -6,6 +6,7 @@ nav_order: 11
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-11
+image: ./day11-agen.jpg
 ---
 # Day 11 - Retro
 

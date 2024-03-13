@@ -5,7 +5,7 @@ title: Day 23 - 3D
 nav_order: 23
 parent: 30DayMapChallenge 2023
 author: Viglino
-date: 2023-11-18
+date: 2023-11-23
 image: ./day23-3d.jpg
 ---
 # Day 23 - 3D
@@ -13,7 +13,7 @@ image: ./day23-3d.jpg
 Pour illustrer la 3D, une petite carte pour faire le tour du Mont-Blanc en rando. Et sa version 3D.
 
 {: .center }
-![](./day23-Mont-Blanc.jpg.jpg){:width="550px"}{: .fullscreen }    
+![](./day23-Mont-Blanc.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/iv2im1/Tour-du-Mont-Blanc){:target="macarte"}
 
 {: .center }

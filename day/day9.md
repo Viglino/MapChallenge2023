@@ -6,6 +6,7 @@ nav_order: 9
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-09
+image: ./day9-hexagones.jpg
 ---
 # Day 9 - Hexagons
 

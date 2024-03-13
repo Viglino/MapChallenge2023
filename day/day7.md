@@ -6,6 +6,7 @@ nav_order: 7
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-07
+image: ./day7-navigation.jpg
 ---
 # Day 7 - Navigation
 

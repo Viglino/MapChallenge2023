@@ -6,6 +6,7 @@ nav_order: 14
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-14
+image: ./day14-imperivm.jpg
 ---
 # Day 14 - Europe
 

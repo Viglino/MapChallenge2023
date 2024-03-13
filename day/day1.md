@@ -6,6 +6,7 @@ nav_order: 1
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-01
+image: ./day1-phare.jpg
 ---
 # Day 1 - Points
 

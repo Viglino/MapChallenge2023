@@ -6,6 +6,7 @@ nav_order: 4
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-04
+image: ./day4-lunettes.jpg
 ---
 # Day 4 - Bad map
 

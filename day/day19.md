@@ -1,18 +1,19 @@
 ---
 layout: default
-permalink: /day18-5mn-map
-title: Day 18 - 5mn map
-nav_order: 18
+permalink: /day19-5mn-map
+title: Day 19 - 5mn map
+nav_order: 19
 parent: 30DayMapChallenge 2023
 author: Viglino
-date: 2023-11-18
+date: 2023-11-19
+image: ./day19-cassini.jpg
 ---
-# Day 18 - 5mn map
+# Day 19 - 5mn map
 
-Pour le jour 18, j'ai repris l'idée du jour 11 (rétro) avec des [tuiles vectorielles de l'IGN](https://geoservices.ign.fr/actualites/2022-03-30-tuiles-vectorielles) et une symbolisation façon carte de Cassini, afin de proposer de faire sa propre carte en moins de 5mn chrono.
+Pour le jour 19, j'ai repris l'idée du jour 11 (rétro) avec des [tuiles vectorielles de l'IGN](https://geoservices.ign.fr/actualites/2022-03-30-tuiles-vectorielles) et une symbolisation façon carte de Cassini, afin de proposer de faire sa propre carte en moins de 5mn chrono.
 
 {: .center }
-![](./day18-geipan.jpg){:width="550px"}{: .fullscreen }    
+![](./day19-cassini.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte narrative](https://macarte.ign.fr/carte/FxwkSm/Ma-Cassini){:target="macarte"}
 
 {: .center }

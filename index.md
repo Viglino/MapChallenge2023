@@ -6,7 +6,7 @@ author: Viglino
 nav_order: 0
 has_children: true
 description: My #30DayMapChallenge 2023.
-image: 
+image: ./day1-phare.jpg
 ---
 # My #30DayMapChallenge 2023
 

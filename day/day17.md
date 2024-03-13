@@ -6,6 +6,7 @@ nav_order: 17
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-17
+image: ./day17-flow.jpg
 ---
 # Day 17 - Flow
 

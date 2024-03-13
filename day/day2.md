@@ -6,6 +6,7 @@ nav_order: 2
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-02
+image: ./day2-lines.jpg
 ---
 # Day 2 - Lines
 
@@ -16,7 +17,7 @@ Pour le jour des lignes, j'ai calculé des isochrones à partir de Paris avec [l
 *La couche d'isochrones*
 
 {: .center }
-![](https://pbs.twimg.com/media/F94Mk77WoAAMxn7?format=jpg&name=medium){:width="550px"}{: .fullscreen }    
+![](./day2-lines.jpg){:width="550px"}{: .fullscreen }    
 [Voir la carte en ligne](https://macarte.ign.fr/carte/oA7ssf/Distance-Paris){:target="macarte"}
 
 {: .center }

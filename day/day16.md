@@ -6,6 +6,7 @@ nav_order: 16
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-16
+image: ./day16-argocean.jpg
 ---
 # Day 16 - Oceania
 

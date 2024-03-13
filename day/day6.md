@@ -6,6 +6,7 @@ nav_order: 6
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-06
+image: ./day6-polo.jpg
 ---
 # Day 6 - Asia
 

@@ -6,6 +6,7 @@ nav_order: 13
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-13
+image: ./day13-incendies.jpg
 ---
 # Day 13 - Choropleth
 

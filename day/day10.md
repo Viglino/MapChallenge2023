@@ -6,6 +6,7 @@ nav_order: 10
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-10
+image: ./day10-luke.jpg
 ---
 # Day 10 - North America
 

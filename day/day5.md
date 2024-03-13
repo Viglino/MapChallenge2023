@@ -6,6 +6,7 @@ nav_order: 5
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-05
+image: ./day5-blob.jpg
 ---
 # Day 5 - Analog map
 

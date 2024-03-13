@@ -6,6 +6,7 @@ nav_order: 8
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-08
+image: ./day8-girafe.jpg
 ---
 # Day 8 - Africa
 

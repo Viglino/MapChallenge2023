@@ -6,6 +6,7 @@ nav_order: 18
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-18
+image: ./day18-geipan.jpg
 ---
 # Day 18 - Atmosphere
 

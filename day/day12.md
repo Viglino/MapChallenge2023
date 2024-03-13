@@ -6,6 +6,7 @@ nav_order: 12
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-12
+image: ./day12-south-america.jpg
 ---
 # Day 12 - South America
 

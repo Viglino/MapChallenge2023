@@ -6,6 +6,7 @@ nav_order: 3
 parent: 30DayMapChallenge 2023
 author: Viglino
 date: 2023-11-03
+image: ./day3-surface.jpg
 ---
 # Day 3 - Polygons
 
