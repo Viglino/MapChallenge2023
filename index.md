@@ -9,6 +9,7 @@ description: My #30DayMapChallenge 2023.
 image: ./day1-phare.jpg
 ---
 # My #30DayMapChallenge 2023
+![](./assets/banner.jpg)
 
 Le #30DayMapChallenge est un défi lancé en 2019 par [Topi Tjukanov](https://tjukanov.org/), un cartographe Finlandais. Cela consiste à publier chaque jour une carte sur une thématique imposée.
 
