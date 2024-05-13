@@ -27,3 +27,5 @@ Un site internet recense également toutes les informations sur ce challenge : [
 
 {: .tag }
 Si vous cherchez Makina Corpus propose [une rétrospective](https://makina-corpus.com/sig-cartographie/retour-30daymapchallenge-2023) du challenge et une [sélection de cartes](https://github.com/makinacorpus/30DayMapChallenge/tree/main/30DayMapChallenge2023).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzLneuWw5I0?si=VrB2MCD_x8_H6S97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin: auto"></iframe>
