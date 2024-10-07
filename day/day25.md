@@ -5,7 +5,7 @@ title: Day 25 - Antarctica
 nav_order: 25
 parent: 30DayMapChallenge 2023
 author: Viglino
-date: 2023-11-24
+date: 2023-11-25
 image: ./day25-pingouin.jpg
 ---
 # Day 25 - Antarctica
